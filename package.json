@@ -1,0 +1,12 @@
+{
+  "name": "snake-game-electron",
+  "version": "1.0.0",
+  "description": "Classic Nokia Snake Game in Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
